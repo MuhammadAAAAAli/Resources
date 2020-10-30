@@ -4,7 +4,11 @@
 
 [Wireless Presentation Agilehub](https://ipfs.io/ipfs/QmeL1oS8QMZjFJV7k6kTriBkniZyW6dUGYiHx2sZvLqWdJ) | [Basic commands](https://ipfs.io/ipfs/QmYMTgo9uDCUCiDHkoXqqPFhaJeRoizgNgwtm15nB3jgh4)
 
-[How to Master Kali Linux](https://ipfs.io/ipfs/QmbJkxLpqwu6vgaQ4gH7d1EmfiavFoqmRdfY58jP9JD2ve) | [Video](https://www.youtube.com/watch?v=-g3I_ZNhePM)
+[How to Master Kali Linux](https://ipfs.io/ipfs/QmbJkxLpqwu6vgaQ4gH7d1EmfiavFoqmRdfY58jP9JD2ve) 
+
+[Journey of a Network Packet](https://www.youtube.com/watch?v=-g3I_ZNhePM)
+
+[Tutorial](https://www.youtube.com/c/ippsec)
 
 <hr>
 
