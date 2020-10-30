@@ -1,6 +1,6 @@
 
 
-### Security Basics
+#### Security
 
 [How To Wireless](https://ipfs.io/ipfs/QmeL1oS8QMZjFJV7k6kTriBkniZyW6dUGYiHx2sZvLqWdJ) | [Commands](https://ipfs.io/ipfs/QmYMTgo9uDCUCiDHkoXqqPFhaJeRoizgNgwtm15nB3jgh4)
 
@@ -8,7 +8,7 @@
 
 <hr>
 
-### Coding BASICS
+#### Code
 
 [How To Loops PDF](https://ipfs.io/ipfs/QmbNB5wFSWRUacYKBx9oP2TLGWVrgYYoCDBtxnaxSPUfJ2)	
 
