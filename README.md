@@ -4,11 +4,11 @@
 
 [Wireless Presentation Agilehub](https://ipfs.io/ipfs/QmeL1oS8QMZjFJV7k6kTriBkniZyW6dUGYiHx2sZvLqWdJ) | [Basic commands](https://ipfs.io/ipfs/QmYMTgo9uDCUCiDHkoXqqPFhaJeRoizgNgwtm15nB3jgh4)
 
-[How to Master Kali Linux](https://ipfs.io/ipfs/QmbJkxLpqwu6vgaQ4gH7d1EmfiavFoqmRdfY58jP9JD2ve) 
+[How to Master Kali Linux PDF](https://ipfs.io/ipfs/QmbJkxLpqwu6vgaQ4gH7d1EmfiavFoqmRdfY58jP9JD2ve) 
 
-[Journey of a Network Packet](https://www.youtube.com/watch?v=-g3I_ZNhePM)
+[Journey of a Network Packet Video](https://www.youtube.com/watch?v=-g3I_ZNhePM)
 
-[Tutorial](https://www.youtube.com/c/ippsec)
+[Tutorial Youtube Channel](https://www.youtube.com/c/ippsec)
 
 <hr>
 
@@ -22,7 +22,7 @@
 
 [10'th grade Manual C++](https://ipfs.io/ipfs/QmNv6QxeCTMZwpePewHEL197qg9uwdyha7EuJmT5dnm3aK)
 
-#### Basic sorting algorithms C++ | [Video](https://www.youtube.com/watch?v=kPRA0W1kECg):
+#### Basic sorting algorithms C++ | 
 
 1. [Quick Sort](https://ipfs.io/ipfs/QmbJcYsJDTanHhKiSfuyXLqNWQ25JNWfbUAZH43BR5RvLP) | [Tony Hoare](https://ipfs.io/ipfs/Qmf4gGVi2ip4nqWSUUeFp7uDEkcqj7Rt1jVmbgBfwq4GA4)
 
@@ -33,3 +33,5 @@
 4. [Selection Sort](https://ipfs.io/ipfs/Qme6NPaFaWp58bYMgSJBrF18Lw8ASsxFk9o5StJ6FxAkoG) 
 
 5. [Counting Sort](https://ipfs.io/ipfs/QmcCSPV1pbPJqTCeDPRU8Xq7CSHpk6WQL9iheLs4dRssdi) | [Harold H. Seward](https://ipfs.io/ipfs/QmX4afYpc6CxFrfkmGpQgxW9PCR98nrEDQesrsbvyiBV3S)
+
+[See sorting algorithms in action](https://www.youtube.com/watch?v=kPRA0W1kECg)
