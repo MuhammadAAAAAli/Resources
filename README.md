@@ -1,13 +1,13 @@
 
 #### Coding Basics
 
-[9'th grade Manual C++](https://ipfs.io/ipfs/QmSWHqbvYN7uzD9NAn6kj1ygadU4a6guVDgPz5RMR4DiJ1)
+  1. [9'th grade Manual C++](https://ipfs.io/ipfs/QmSWHqbvYN7uzD9NAn6kj1ygadU4a6guVDgPz5RMR4DiJ1)
 
-[10'th grade Manual C++](https://ipfs.io/ipfs/QmNv6QxeCTMZwpePewHEL197qg9uwdyha7EuJmT5dnm3aK)
+  2. [10'th grade Manual C++](https://ipfs.io/ipfs/QmNv6QxeCTMZwpePewHEL197qg9uwdyha7EuJmT5dnm3aK)
 
-[How to work with Loops Python](https://ipfs.io/ipfs/QmbNB5wFSWRUacYKBx9oP2TLGWVrgYYoCDBtxnaxSPUfJ2)	
+  3. [How to work with Loops Python](https://ipfs.io/ipfs/QmbNB5wFSWRUacYKBx9oP2TLGWVrgYYoCDBtxnaxSPUfJ2)	
 
-[How to work with HTTP Python](https://ipfs.io/ipfs/QmaBdyu9hYBc6sfzYnKk3mtvnJfLDcWQFHkUPdYxb5wrnd)
+  4. [How to work with HTTP Python](https://ipfs.io/ipfs/QmaBdyu9hYBc6sfzYnKk3mtvnJfLDcWQFHkUPdYxb5wrnd)
 
 <hr>
 
