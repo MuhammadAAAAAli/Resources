@@ -1,5 +1,3 @@
-## PDF Resources
-
 > [How To Loops PDF](https://ipfs.io/ipfs/QmbNB5wFSWRUacYKBx9oP2TLGWVrgYYoCDBtxnaxSPUfJ2)	
 
 > [How To HTTP PDF](https://ipfs.io/ipfs/QmaBdyu9hYBc6sfzYnKk3mtvnJfLDcWQFHkUPdYxb5wrnd)
