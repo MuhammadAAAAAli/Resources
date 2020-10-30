@@ -1,29 +1,5 @@
 
 
-#### Security
-
-[Wireless Presentation Agilehub](https://ipfs.io/ipfs/QmeL1oS8QMZjFJV7k6kTriBkniZyW6dUGYiHx2sZvLqWdJ) | [Basic commands](https://ipfs.io/ipfs/QmYMTgo9uDCUCiDHkoXqqPFhaJeRoizgNgwtm15nB3jgh4)
-
-[How to Master Kali Linux PDF](https://ipfs.io/ipfs/QmbJkxLpqwu6vgaQ4gH7d1EmfiavFoqmRdfY58jP9JD2ve) 
-
-[Journey of a Network Packet Video](https://www.youtube.com/watch?v=-g3I_ZNhePM)
-
-[Tutorial Youtube Channel](https://www.youtube.com/c/ippsec)
-
-<hr>
-
-#### Code
-
-[How to work with Loops Python](https://ipfs.io/ipfs/QmbNB5wFSWRUacYKBx9oP2TLGWVrgYYoCDBtxnaxSPUfJ2)	
-
-[How to work with HTTP Python](https://ipfs.io/ipfs/QmaBdyu9hYBc6sfzYnKk3mtvnJfLDcWQFHkUPdYxb5wrnd)
-
-[9'th grade Manual C++](https://ipfs.io/ipfs/QmSWHqbvYN7uzD9NAn6kj1ygadU4a6guVDgPz5RMR4DiJ1)
-
-[10'th grade Manual C++](https://ipfs.io/ipfs/QmNv6QxeCTMZwpePewHEL197qg9uwdyha7EuJmT5dnm3aK)
-
-<hr>
-
 #### Basic sorting algorithms C++ 
 [See sorting algorithms in action](https://www.youtube.com/watch?v=kPRA0W1kECg)
 
@@ -39,4 +15,28 @@
 
 <hr>
 
-  
+
+#### Dive in Code
+
+[How to work with Loops Python](https://ipfs.io/ipfs/QmbNB5wFSWRUacYKBx9oP2TLGWVrgYYoCDBtxnaxSPUfJ2)	
+
+[How to work with HTTP Python](https://ipfs.io/ipfs/QmaBdyu9hYBc6sfzYnKk3mtvnJfLDcWQFHkUPdYxb5wrnd)
+
+[9'th grade Manual C++](https://ipfs.io/ipfs/QmSWHqbvYN7uzD9NAn6kj1ygadU4a6guVDgPz5RMR4DiJ1)
+
+[10'th grade Manual C++](https://ipfs.io/ipfs/QmNv6QxeCTMZwpePewHEL197qg9uwdyha7EuJmT5dnm3aK)
+
+<hr>
+
+
+#### What about Security
+
+[Wireless Presentation Agilehub](https://ipfs.io/ipfs/QmeL1oS8QMZjFJV7k6kTriBkniZyW6dUGYiHx2sZvLqWdJ) | [Basic commands](https://ipfs.io/ipfs/QmYMTgo9uDCUCiDHkoXqqPFhaJeRoizgNgwtm15nB3jgh4)
+
+[How to Master Kali Linux PDF](https://ipfs.io/ipfs/QmbJkxLpqwu6vgaQ4gH7d1EmfiavFoqmRdfY58jP9JD2ve) 
+
+[Journey of a Network Packet Video](https://www.youtube.com/watch?v=-g3I_ZNhePM)
+
+[Tutorial Youtube Channel](https://www.youtube.com/c/ippsec)
+
+<hr> 
