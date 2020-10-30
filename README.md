@@ -22,7 +22,8 @@
 
 [10'th grade Manual C++](https://ipfs.io/ipfs/QmNv6QxeCTMZwpePewHEL197qg9uwdyha7EuJmT5dnm3aK)
 
-#### Basic sorting algorithms C++ | 
+#### Basic sorting algorithms C++ 
+[See sorting algorithms in action](https://www.youtube.com/watch?v=kPRA0W1kECg)
 
   1. [Quick Sort](https://ipfs.io/ipfs/QmbJcYsJDTanHhKiSfuyXLqNWQ25JNWfbUAZH43BR5RvLP) | [Tony Hoare](https://ipfs.io/ipfs/Qmf4gGVi2ip4nqWSUUeFp7uDEkcqj7Rt1jVmbgBfwq4GA4)
 
@@ -34,4 +35,4 @@
 
   5. [Counting Sort](https://ipfs.io/ipfs/QmcCSPV1pbPJqTCeDPRU8Xq7CSHpk6WQL9iheLs4dRssdi) | [Harold H. Seward](https://ipfs.io/ipfs/QmX4afYpc6CxFrfkmGpQgxW9PCR98nrEDQesrsbvyiBV3S)
 
-  [See sorting algorithms in action](https://www.youtube.com/watch?v=kPRA0W1kECg)
+  
