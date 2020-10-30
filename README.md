@@ -12,6 +12,6 @@
 
 <hr>
 
-> [RO 9'th grade Manual](https://ipfs.io/ipfs/QmSWHqbvYN7uzD9NAn6kj1ygadU4a6guVDgPz5RMR4DiJ1)
+> [9'th grade Manual](https://ipfs.io/ipfs/QmSWHqbvYN7uzD9NAn6kj1ygadU4a6guVDgPz5RMR4DiJ1)
 
-> [RO 9'th grade Manual](https://ipfs.io/ipfs/QmNv6QxeCTMZwpePewHEL197qg9uwdyha7EuJmT5dnm3aK)
+> [10'th grade Manual](https://ipfs.io/ipfs/QmNv6QxeCTMZwpePewHEL197qg9uwdyha7EuJmT5dnm3aK)
