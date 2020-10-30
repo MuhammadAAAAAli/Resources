@@ -1,5 +1,5 @@
 
-#### Codeing Basics
+#### Coding Basics
 
 [9'th grade Manual C++](https://ipfs.io/ipfs/QmSWHqbvYN7uzD9NAn6kj1ygadU4a6guVDgPz5RMR4DiJ1)
 
