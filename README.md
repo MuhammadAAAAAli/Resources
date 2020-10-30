@@ -34,11 +34,13 @@
 
 [Journey of a Network Packet Video](https://www.youtube.com/watch?v=-g3I_ZNhePM)
 
-[ippsec Youtube Channel](https://www.youtube.com/c/ippsec)
+[IppSec Full Tutorial](https://www.youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf&fbclid=IwAR1lEUrUV9iJjJOncPCSI1XQjhNptMfCDLzXol4p84258UVb0ZEgs3WuMXs)
 
 <hr> 
 
 #### Other
 
 [How to be Agile](https://ipfs.io/ipfs/QmWZfdLH9Xob8zHzdHapvYML6Tq3UkrPH1wAHQK4er3mAc)
+
+[How to IPFS](https://ipfs.io/ipfs/QmVPqpJBo4dJEERFmBAD1QiV1cF49P1J1kyHuDfh9hJWDf)
 
