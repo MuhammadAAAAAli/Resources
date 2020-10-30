@@ -37,3 +37,8 @@
 [ippsec Youtube Channel](https://www.youtube.com/c/ippsec)
 
 <hr> 
+
+#### Other
+
+[How to Agile](https://ipfs.io/ipfs/QmWZfdLH9Xob8zHzdHapvYML6Tq3UkrPH1wAHQK4er3mAc)
+
