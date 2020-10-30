@@ -22,4 +22,4 @@
 
 > [Selection Sort](https://ipfs.io/ipfs/Qme6NPaFaWp58bYMgSJBrF18Lw8ASsxFk9o5StJ6FxAkoG) 
 
-> [Counting Sort](https://ipfs.io/ipfs/QmcCSPV1pbPJqTCeDPRU8Xq7CSHpk6WQL9iheLs4dRssdi) | ![Harold H. Seward](https://ipfs.io/ipfs/QmX4afYpc6CxFrfkmGpQgxW9PCR98nrEDQesrsbvyiBV3S)
+> [Counting Sort](https://ipfs.io/ipfs/QmcCSPV1pbPJqTCeDPRU8Xq7CSHpk6WQL9iheLs4dRssdi) | [Harold H. Seward](https://ipfs.io/ipfs/QmX4afYpc6CxFrfkmGpQgxW9PCR98nrEDQesrsbvyiBV3S)
