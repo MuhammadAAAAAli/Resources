@@ -34,6 +34,6 @@
 
 [Journey of a Network Packet Video](https://www.youtube.com/watch?v=-g3I_ZNhePM)
 
-[Tutorial Youtube Channel](https://www.youtube.com/c/ippsec)
+[ippsec Youtube Channel](https://www.youtube.com/c/ippsec)
 
 <hr> 
