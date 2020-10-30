@@ -1,4 +1,15 @@
 
+#### Dive in Code
+
+[9'th grade Manual C++](https://ipfs.io/ipfs/QmSWHqbvYN7uzD9NAn6kj1ygadU4a6guVDgPz5RMR4DiJ1)
+
+[10'th grade Manual C++](https://ipfs.io/ipfs/QmNv6QxeCTMZwpePewHEL197qg9uwdyha7EuJmT5dnm3aK)
+
+[How to work with Loops Python](https://ipfs.io/ipfs/QmbNB5wFSWRUacYKBx9oP2TLGWVrgYYoCDBtxnaxSPUfJ2)	
+
+[How to work with HTTP Python](https://ipfs.io/ipfs/QmaBdyu9hYBc6sfzYnKk3mtvnJfLDcWQFHkUPdYxb5wrnd)
+
+<hr>
 
 #### Basic sorting algorithms C++ 
 [See sorting algorithms in action](https://www.youtube.com/watch?v=kPRA0W1kECg)
@@ -14,20 +25,6 @@
   5. [Counting Sort](https://ipfs.io/ipfs/QmcCSPV1pbPJqTCeDPRU8Xq7CSHpk6WQL9iheLs4dRssdi) | [Harold H. Seward](https://ipfs.io/ipfs/QmX4afYpc6CxFrfkmGpQgxW9PCR98nrEDQesrsbvyiBV3S)
 
 <hr>
-
-
-#### Dive in Code
-
-[How to work with Loops Python](https://ipfs.io/ipfs/QmbNB5wFSWRUacYKBx9oP2TLGWVrgYYoCDBtxnaxSPUfJ2)	
-
-[How to work with HTTP Python](https://ipfs.io/ipfs/QmaBdyu9hYBc6sfzYnKk3mtvnJfLDcWQFHkUPdYxb5wrnd)
-
-[9'th grade Manual C++](https://ipfs.io/ipfs/QmSWHqbvYN7uzD9NAn6kj1ygadU4a6guVDgPz5RMR4DiJ1)
-
-[10'th grade Manual C++](https://ipfs.io/ipfs/QmNv6QxeCTMZwpePewHEL197qg9uwdyha7EuJmT5dnm3aK)
-
-<hr>
-
 
 #### What about Security
 
