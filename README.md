@@ -22,6 +22,8 @@
 
 [10'th grade Manual C++](https://ipfs.io/ipfs/QmNv6QxeCTMZwpePewHEL197qg9uwdyha7EuJmT5dnm3aK)
 
+<hr>
+
 #### Basic sorting algorithms C++ 
 [See sorting algorithms in action](https://www.youtube.com/watch?v=kPRA0W1kECg)
 
@@ -34,5 +36,7 @@
   4. [Selection Sort](https://ipfs.io/ipfs/Qme6NPaFaWp58bYMgSJBrF18Lw8ASsxFk9o5StJ6FxAkoG) 
 
   5. [Counting Sort](https://ipfs.io/ipfs/QmcCSPV1pbPJqTCeDPRU8Xq7CSHpk6WQL9iheLs4dRssdi) | [Harold H. Seward](https://ipfs.io/ipfs/QmX4afYpc6CxFrfkmGpQgxW9PCR98nrEDQesrsbvyiBV3S)
+
+<hr>
 
   
