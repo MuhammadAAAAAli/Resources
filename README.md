@@ -1,6 +1,6 @@
 
 
-## Security Basics
+### Security Basics
 
 [How To Wireless](https://ipfs.io/ipfs/QmeL1oS8QMZjFJV7k6kTriBkniZyW6dUGYiHx2sZvLqWdJ) | [Commands](https://ipfs.io/ipfs/QmYMTgo9uDCUCiDHkoXqqPFhaJeRoizgNgwtm15nB3jgh4)
 
@@ -8,7 +8,7 @@
 
 <hr>
 
-## Coding BASICS
+### Coding BASICS
 
 [How To Loops PDF](https://ipfs.io/ipfs/QmbNB5wFSWRUacYKBx9oP2TLGWVrgYYoCDBtxnaxSPUfJ2)	
 
@@ -18,7 +18,7 @@
 
 [10'th grade Manual](https://ipfs.io/ipfs/QmNv6QxeCTMZwpePewHEL197qg9uwdyha7EuJmT5dnm3aK)
 
-Basic sorting algorithms :
+#### Basic sorting algorithms :
 
 1. [Quick Sort](https://ipfs.io/ipfs/QmbJcYsJDTanHhKiSfuyXLqNWQ25JNWfbUAZH43BR5RvLP) | [Tony Hoare](https://ipfs.io/ipfs/Qmf4gGVi2ip4nqWSUUeFp7uDEkcqj7Rt1jVmbgBfwq4GA4)
 
