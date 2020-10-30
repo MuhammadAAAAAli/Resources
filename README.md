@@ -10,15 +10,15 @@
 
 #### Code
 
-[How To work with Loops PDF](https://ipfs.io/ipfs/QmbNB5wFSWRUacYKBx9oP2TLGWVrgYYoCDBtxnaxSPUfJ2)	
+[How to work with Loops Python](https://ipfs.io/ipfs/QmbNB5wFSWRUacYKBx9oP2TLGWVrgYYoCDBtxnaxSPUfJ2)	
 
-[How To work with HTTP PDF](https://ipfs.io/ipfs/QmaBdyu9hYBc6sfzYnKk3mtvnJfLDcWQFHkUPdYxb5wrnd)
+[How to work with HTTP Python](https://ipfs.io/ipfs/QmaBdyu9hYBc6sfzYnKk3mtvnJfLDcWQFHkUPdYxb5wrnd)
 
-[9'th grade Manual](https://ipfs.io/ipfs/QmSWHqbvYN7uzD9NAn6kj1ygadU4a6guVDgPz5RMR4DiJ1)
+[9'th grade Manual C++](https://ipfs.io/ipfs/QmSWHqbvYN7uzD9NAn6kj1ygadU4a6guVDgPz5RMR4DiJ1)
 
-[10'th grade Manual](https://ipfs.io/ipfs/QmNv6QxeCTMZwpePewHEL197qg9uwdyha7EuJmT5dnm3aK)
+[10'th grade Manual C++](https://ipfs.io/ipfs/QmNv6QxeCTMZwpePewHEL197qg9uwdyha7EuJmT5dnm3aK)
 
-#### Basic sorting algorithms :
+#### Basic sorting algorithms C++ :
 
 1. [Quick Sort](https://ipfs.io/ipfs/QmbJcYsJDTanHhKiSfuyXLqNWQ25JNWfbUAZH43BR5RvLP) | [Tony Hoare](https://ipfs.io/ipfs/Qmf4gGVi2ip4nqWSUUeFp7uDEkcqj7Rt1jVmbgBfwq4GA4)
 
