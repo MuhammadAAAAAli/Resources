@@ -26,7 +26,7 @@
 
 <hr>
 
-#### What about Advanced Security
+#### Advanced Security
 
 [Wireless Presentation Agilehub](https://ipfs.io/ipfs/QmeL1oS8QMZjFJV7k6kTriBkniZyW6dUGYiHx2sZvLqWdJ) | [Basic commands](https://ipfs.io/ipfs/QmYMTgo9uDCUCiDHkoXqqPFhaJeRoizgNgwtm15nB3jgh4)
 
