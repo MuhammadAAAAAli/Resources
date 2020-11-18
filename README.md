@@ -5,9 +5,9 @@
 
   2. [10'th grade Manual C++](https://ipfs.io/ipfs/QmNv6QxeCTMZwpePewHEL197qg9uwdyha7EuJmT5dnm3aK)
 
-  3. [How to work with Loops Python](https://ipfs.io/ipfs/QmbNB5wFSWRUacYKBx9oP2TLGWVrgYYoCDBtxnaxSPUfJ2)	
+  3. [How to loops in Python](https://ipfs.io/ipfs/QmbNB5wFSWRUacYKBx9oP2TLGWVrgYYoCDBtxnaxSPUfJ2)	
 
-  4. [How to work with HTTP Python](https://ipfs.io/ipfs/QmaBdyu9hYBc6sfzYnKk3mtvnJfLDcWQFHkUPdYxb5wrnd)
+  4. [How to HTTP in Python](https://ipfs.io/ipfs/QmaBdyu9hYBc6sfzYnKk3mtvnJfLDcWQFHkUPdYxb5wrnd)
 
 <hr>
 
