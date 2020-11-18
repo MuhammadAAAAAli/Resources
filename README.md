@@ -28,7 +28,7 @@
 
 #### Advanced Security
 
-[Wireless Presentation](https://ipfs.io/ipfs/QmUzF2pvdspCFeyJyfmrvtdQajBDCLLvT9C4vXjp7P67P3) | [Basic commands](https://ipfs.io/ipfs/QmWLDwGNx7oK3yzaZHyK4T4o1uFNWNfUDxGo2j1jb5rDRc)
+[How To Wireless](https://ipfs.io/ipfs/QmUzF2pvdspCFeyJyfmrvtdQajBDCLLvT9C4vXjp7P67P3) | [Basic commands](https://ipfs.io/ipfs/QmWLDwGNx7oK3yzaZHyK4T4o1uFNWNfUDxGo2j1jb5rDRc)
 
 [How to Master Kali Linux PDF](https://ipfs.io/ipfs/QmbJkxLpqwu6vgaQ4gH7d1EmfiavFoqmRdfY58jP9JD2ve) 
 
@@ -40,7 +40,7 @@
 
 #### Other
 
-[How to be Agile](https://ipfs.io/ipfs/QmWZfdLH9Xob8zHzdHapvYML6Tq3UkrPH1wAHQK4er3mAc)
+[How to Agile](https://ipfs.io/ipfs/QmWZfdLH9Xob8zHzdHapvYML6Tq3UkrPH1wAHQK4er3mAc)
 
 [How to IPFS](https://ipfs.io/ipfs/QmVPqpJBo4dJEERFmBAD1QiV1cF49P1J1kyHuDfh9hJWDf)
 
