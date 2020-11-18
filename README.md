@@ -28,7 +28,7 @@
 
 #### Advanced Security
 
-[Wireless Presentation Agilehub](https://ipfs.io/ipfs/QmeL1oS8QMZjFJV7k6kTriBkniZyW6dUGYiHx2sZvLqWdJ) | [Basic commands](https://ipfs.io/ipfs/QmYMTgo9uDCUCiDHkoXqqPFhaJeRoizgNgwtm15nB3jgh4)
+[Wireless Presentation Agilehub](https://ipfs.io/ipfs/QmWLDwGNx7oK3yzaZHyK4T4o1uFNWNfUDxGo2j1jb5rDRc) | [Basic commands](https://ipfs.io/ipfs/QmYMTgo9uDCUCiDHkoXqqPFhaJeRoizgNgwtm15nB3jgh4)
 
 [How to Master Kali Linux PDF](https://ipfs.io/ipfs/QmbJkxLpqwu6vgaQ4gH7d1EmfiavFoqmRdfY58jP9JD2ve) 
 
